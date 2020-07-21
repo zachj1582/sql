@@ -31,7 +31,7 @@ After connecting to the MySQL RDS instance, <h2>DO NOT UNDER ANY CIRCUMSTANCES R
 
 Once logged into the RDS instance do the following:
    
-1. Take a look at the tables in the <code>students</code> database.  In the <code>tekcamp.sql</code> file, write a sql comment mentioning the name of the original sql database and any tables that currently exist in the database.
+1. Take a look at the tables in the <code>students</code> database. In the <code>tekcamp.sql</code> file, write a sql comment mentioning the name of the original sql database and any tables that currently exist in the database.
    
 2. Create **your own** students database.  Name the database in the following format : <code>tc1-&lt;firstname-lastname&gt;-</code>.  
    
