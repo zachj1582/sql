@@ -87,7 +87,13 @@ Create a new cloud managed relational database instance powered by MySQL.  Some 
 
 Do the above exercise on your own managed cloud database instance.  Be sure to add the URL to your instance here on this README.
 
-Create another <code>.sql</code> "script" file that shows all the queries that were performed to accomplish this task.  You should name the file according to the cloud provider you selected for this task.  For example, if you went with AWS, you can name the file :  <code>aws-rds.sql</code> for example.  
+RDS endpoint: (db-module11-zach-johnson.csu5hk3jzveb.us-east-2.rds.amazonaws.com)
+
+user: admin
+password: slack me for password
+
+
+Create another <code>.sql</code> "script" file that shows all the queries that were performed to accomplish this task.  You should name the file according to the cloud provider you selected for this task.  For example, if you went with AWS, you can name the file :  <code>aws-rds.sql</code> for example.
 
 Before the actual queries, add some comments at the top of the sql file that describe some of the steps you took to configure the managed cloud database instance.  Also in these comments, explain the reasoning why you chose that particular cloud provider to do this bonus task.
 
